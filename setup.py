@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="Flask-AuditLog",
-    version="0.1",
+    version="1.0",
     author="VolkerWessels Telecom",
     author_email="opensource@vwt.digital",
     description="Request logging for Flask",
